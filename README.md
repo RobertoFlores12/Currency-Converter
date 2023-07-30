@@ -1,5 +1,6 @@
 #README del Proyecto "Currency Converter"
-#Descripción del Proyecto
+
+##Descripción del Proyecto
 El proyecto "Currency Converter" es una aplicación Java que permite a los usuarios convertir entre diferentes monedas. Puede realizar conversiones desde dólares estadounidenses (USD) a Euros (EUR), Libras Esterlinas (GBP), Yen Japonés (JPY) y Won sul-coreano (KRW). También puede realizar conversiones desde estas monedas a dólares estadounidenses.
 
 #Características Principales
